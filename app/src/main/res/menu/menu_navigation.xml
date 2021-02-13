@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/aboutds"
+        android:title="Sobre a Doença"
+        android:icon="@drawable/ic_whatssd"/>
+
+    <item
+        android:id="@+id/aboutus"
+        android:title="Sobre Nós"
+        android:icon="@drawable/ic_aboutus"/>
+
+    <item
+        android:id="@+id/objectives"
+        android:title="Objetivos"
+        android:icon="@drawable/ic_objective"/>
+
+
+</menu>
